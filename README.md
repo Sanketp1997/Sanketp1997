@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Sanket! 👋
 
-<!--
-**Sanketp1997/Sanketp1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*An Engineer who loves building creative, functional, and meaningful web experiences.*
 
-Here are some ideas to get you started:
+> Software Engineer • Lifelong Learner • Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I'm a passionate Techie with a love for creating meaningful, creative, and functional web applications. I thrive on challenges, enjoy learning new technologies, and I'm always looking for opportunities to grow and collaborate on exciting projects.
+
+---
+
+## My Tech Stack
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="36" height="36" alt="Kotlin" /><br/>
+      <sub><b>Kotlin</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" /><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript" /><br/>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React" /><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="36" height="36" alt="Node.js" /><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Featured Projects
+
+- **Project One**  
+  A brief description of this awesome project. What it does, and what technologies were used.  
+  [View on GitHub →](#)
+
+- **Project Two**  
+  A brief description of this awesome project. What it does, and what technologies were used.  
+  [View on GitHub →](#)
+
+- **Project Three**  
+  A brief description of this awesome project. What it does, and what technologies were used.  
+  [View on GitHub →](#)
+
+---
+
+### Connect
+
+Feel free to reach out if you’d like to collaborate or just chat tech!
