@@ -43,17 +43,17 @@ I'm a passionate Techie with a love for creating meaningful, creative, and funct
 
 ## Featured Projects
 
-- **Project One**  
-  A brief description of this awesome project. What it does, and what technologies were used.  
-  [View on GitHub →](#)
+- **Secret Stash**  
+  Secret Stash is a secure note-taking API where users can create, update, delete, and retrieve their private notes. Each user can only access their own notes, with authentication and security being top priorities.  
+  [View on GitHub →](https://github.com/Sanketp1997/secret-stash)
 
-- **Project Two**  
-  A brief description of this awesome project. What it does, and what technologies were used.  
-  [View on GitHub →](#)
+- **Brahmachari**  
+  Brahmachari is a Discord bot that maintains peace and order in the server. It deletes inappropriate messages and warns users with sarcastic message replies.
+  [View on GitHub →](https://github.com/Sanketp1997/Brahmachari-the-discord-bot)
 
-- **Project Three**  
-  A brief description of this awesome project. What it does, and what technologies were used.  
-  [View on GitHub →](#)
+- **Image SuperResolution**  
+  Image SuperResolution Using Deep Learning Keras Implementation that takes a single low resolution image and enhances it to high resolution.
+  [View on GitHub →](https://github.com/Sanketp1997/Image-SuperResolution-Using-Deep-Leaning-Keras-Implementation-)
 
 ---
 
