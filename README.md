@@ -1,6 +1,6 @@
 # Hi, I'm Sanket! 👋
 
-*An Engineer who loves building creative, functional, and meaningful web experiences.*
+*A Software Engineer who loves building creative, functional, and meaningful web experiences.*
 
 > Software Engineer • Lifelong Learner • Tech Enthusiast
 
